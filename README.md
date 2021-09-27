@@ -17,3 +17,7 @@ Comparez le serverless avec l'IaaS et argumentez.
 ## Recommandations
 
 Vous pouvez utiliser Google Cloud Run et la librairie Hugging Face.
+
+## Exemple
+
+https://ai-inference-wdcsobrkra-ew.a.run.app/run?api_key=thisismysecret&text=I%20am%20so%20happy!
